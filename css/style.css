@@ -1,0 +1,36 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    padding: auto;
+    margin: auto;
+}
+#main-header {
+    width: 100;
+    height: 150px;
+    background-color: red;
+}
+#main-nav li {
+    width: 100;
+    height: 40px;
+    display: inline;
+    text-decoration: none;
+}
+#main-nav {
+    background-color: aqua;
+}
+nav li {
+    margin-right: 20px;
+}
+.tutorials {
+    border: 1px solid red;
+    padding: 50px;
+    border-radius: 50px;
+    background-color: rgb(rgb(110, 219, 192), green, blue);
+}
+#main-footer {
+    width: 100;
+    height: 120px;
+    background-color: salmon;
+}
