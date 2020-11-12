@@ -34,3 +34,8 @@ nav li {
     height: 120px;
     background-color: salmon;
 }
+
+.code-example {
+    width: 200vw;
+    height: 25vw;
+  }
